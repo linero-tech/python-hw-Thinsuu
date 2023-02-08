@@ -9,7 +9,6 @@ def task8():
     IF X is multiple of 5 THEN
     OUTPUT Bar;
     IF X is multiple of both 3 and 5 THEN
-    OUTPUT FooBar;
-    IF X is not multiple of 3 or 5 THEN
+    OUTPUT FooBar; ELSE X is not multiple of 3 or 5 THEN
     OUTPUT Qix
     """
